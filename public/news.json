@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "date": "23/05/2025",
+    "title": "Top 5 breakfast recipes for busy individuals",
+    "content": "Here are top 5 breakfast recipes that you can make when you start your busy day.",
+    "category": "Recipe"
+  },
+  {
+    "id": 2,
+    "date": "23/05/2025",
+    "title": "Top 5 lunch recipes for busy individuals",
+    "content": "Here are top 5 lunch recipes that you can make when you have a short break.",
+    "category": "Recipe"
+  },
+  {
+    "id": 3,
+    "date": "23/05/2025",
+    "title": "Top 5 dinner recipes for busy individuals",
+    "content": "Here are top 5 dinner recipes that you can make after you have your busy day.",
+    "category": "Recipe"
+  },
+  {
+    "id": 4,
+    "date": "23/05/2025",
+    "title": "Top 5 ingredient items to boost your busy day",
+    "content": "Here are top 5 ingredient items that help you boost your busy day.",
+    "category": "Item"
+  },
+  {
+    "id": 5,
+    "date": "23/05/2025",
+    "title": "Top 5 healthy snack items to boost your busy day",
+    "content": "Here are top 5 healthy snack items that help you boost your busy day.",
+    "category": "Item"
+  },
+  {
+    "id": 6,
+    "date": "23/05/2025",
+    "title": "Restaurants to try for busy individuals",
+    "content": "Here are some restaurants that you can visit for a busy individual.",
+    "category": "Review"
+  },
+  {
+    "id": 7,
+    "date": "24/05/2025",
+    "title": "Top 5 vegan recipes for busy vegetarians",
+    "content": "Here are top 5 vegan recipes that you can enjoy as a busy vegetarian.",
+    "category": "Recipe"
+  },
+  {
+    "id": 8,
+    "date": "24/05/2025",
+    "title": "Top 5 carnivore recipes for busy meat lovers ",
+    "content": "Here are top 5 carnivore recipes that you can enjoy as a busy meat lover.",
+    "category": "Recipe"
+  },
+  {
+    "id": 9,
+    "date": "24/05/2025",
+    "title": "Top 5 popular meat items",
+    "content": "Here are top 5 popular meat items for busy individuals.",
+    "category": "Item"
+  }
+]
