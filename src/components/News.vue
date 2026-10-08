@@ -86,7 +86,7 @@
          }
       },
       mounted() {
-         fetch('/cos30043/s103830572/A3/news.json')
+         fetch('/Recipe-Recommendation-Page/news.json')
          .then(response => response.json())
           .then(data => {
                this.allNews = data;
