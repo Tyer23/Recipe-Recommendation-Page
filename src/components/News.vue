@@ -86,7 +86,7 @@
          }
       },
       mounted() {
-         fetch('/Recipe-Recommendation-Page/news.json')
+         fetch(`${import.meta.env.BASE_URL}news.json`)
          .then(response => response.json())
           .then(data => {
                this.allNews = data;
