@@ -1,8 +1,6 @@
 # Recipe Recommendation Page
 
-A web application that allows users to browse, search, and filter recipes.
-
-## Live Demo
+## Website link
 
 https://tyer23.github.io/Recipe-Recommendation-Page/
 
@@ -13,10 +11,3 @@ https://tyer23.github.io/Recipe-Recommendation-Page/
 - Node.js
 - REST API
 
-## Features
-
-- Search recipes
-- Browse recipes
-- Filter recipes
-- View recipe information
-- Responsive interface
